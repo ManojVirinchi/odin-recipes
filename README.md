@@ -11,16 +11,17 @@ The project contains the following files:
 - **index.html**: The main page that provides links to the individual recipe pages.  
 - **halwa.html**: A detailed page about "Gajar Ka Halwa" (Carrot Halwa), including ingredients, preparation steps, and an image.  
 - **lasagna.html** : A detailed page about "Lasagna" , including ingredients, preparation steps, and an image. 
-- **guac.html**: A detailed page about "how to make guac from scratch" .  
+- **guac.html**: A detailed page about "how to make guac from scratch" . 
+- **images** : All the images are stored under images directory 
 
 ## Installation Instructions  
 1. Clone the repository to your local machine:  
    ```bash
-   git clone git@github.com:ManojVirinchi/odin-recipes.git
+   git clone git@github.com:XXXXX/odin-recipes.git
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd recipes-website
+   cd odin-recipes
    ```
 3. Open `index.html` in your web browser to start exploring the recipes.  
 
